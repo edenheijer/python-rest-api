@@ -7,6 +7,10 @@ name = "pypi"
 pytest = "*"
 mock = "==2.0"
 python-dateutil = "*"
+requests = "*"
+codecov = "*"
+pytest-cov = "*"
+pycodestyle = "*"
 
 [dev-packages]
 
